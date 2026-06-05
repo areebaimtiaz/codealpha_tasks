@@ -1,4 +1,4 @@
-**                       Task 1: Web Scraping Project
+**Task 1: Web Scraping Project
 **
  **Overview**
 This project is part of the CodeAlpha Data Analytics Tasks.  
@@ -10,7 +10,7 @@ The goal of this task is to extract data from a website using Python web scrapin
 - Create a structured dataset (CSV format)
 - Store data for further analysis
 
-** Data Source
+**Data Source
 **Website used:
 - http://quotes.toscrape.com
 
